@@ -1,29 +1,29 @@
 # Hi, I'm Shivam Pandey 👋
 
-## BSc (Hons) Mathematics – University of Delhi  
-## Aspiring Data Analyst | Python | SQL | Power BI  
+## 🎓BSc (Hons) Mathematics – University of Delhi  
+## 📊Aspiring Data Analyst | Python | SQL | Power BI  
 
-## Skills
+## 🐍Skills
 Python (Pandas, Matplotlib, NumPy)
 SQL / MySQL
 Power BI Dashboard Creation
 Data Cleaning & Visualization
 HTML, CSS, JavaScript Basics
 
-## Projects
+## 📁Projects
 Sales Data Analysis (SQL)
 Built MySQL database and queries for sales insights
 Used joins, aggregation, filtering
 Generated business reports
 
-## Power BI Dashboard 
+## 📊Power BI Dashboard 
 Interactive dashboard using real dataset
 Created slicers, KPI cards, charts
 Monthly performance insights
 
-Currently working on a research paper entitled "A Hybrid Machine Learning - Enhanced SEIR model for regional COVID 19"
+🦠Currently working on a research paper entitled "A Hybrid Machine Learning - Enhanced SEIR model for regional COVID 19"
 
-## Contact
+## 📫Contact
 Email: shivampandeyy10@gmail.com
 LinkedIn: http://www.linkedin.com/in/shivampandeyy10
 
