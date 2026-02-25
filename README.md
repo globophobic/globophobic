@@ -11,12 +11,12 @@ Data Cleaning & Visualization
 HTML, CSS, JavaScript Basics
 
 ## 📁Projects
-Sales Data Analysis (SQL)
+[Sales Data Analysis (SQL)](https://github.com/globophobic/Sales_sql_project)
 Built MySQL database and queries for sales insights
 Used joins, aggregation, filtering
 Generated business reports
 
-## 📊Power BI Dashboard 
+## 📊Power BI Dashboard
 Interactive dashboard using real dataset
 Created slicers, KPI cards, charts
 Monthly performance insights
