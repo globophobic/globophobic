@@ -17,11 +17,12 @@ Used joins, aggregation, filtering
 Generated business reports
 
 ## 📊Power BI Dashboard
-Interactive dashboard using real dataset
+[Interactive dashboard using real dataset](https://github.com/globophobic/powerbi-covid-dashboard)
 Created slicers, KPI cards, charts
 Monthly performance insights
 
-🦠Currently working on a research paper entitled "A Hybrid Machine Learning - Enhanced SEIR model for regional COVID 19"
+## 🦠Currently working on a research paper entitled "A Hybrid Machine Learning - Enhanced SEIR model for regional COVID 19"
+[SEIR Model Using Machine Learning](https://github.com/globophobic/hybrid-ml-enhanced-seir-covid)
 
 ## 📫Contact
 Email: shivampandeyy10@gmail.com
